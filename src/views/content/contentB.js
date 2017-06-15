@@ -18,7 +18,12 @@ class ContentB extends Component {
               <hr className="section-heading-spacer"/>
                 <div className="clearfix"></div>
                 <h2 className="section-heading">3D Device Mockups<br/>by PSDCovers</h2>
-                <p className="lead">Turn your 2D designs into high quality, 3D product shots in seconds using free Photoshop actions by <a target="_blank" href="http://www.psdcovers.com/">PSDCovers</a>! Visit their website to download some of their awesome, free photoshop actions!</p>
+                <p className="lead">
+                  Turn your 2D designs into high quality, 3D product shots in seconds using free Photoshop actions by
+                  <a target="_blank" href="http://www.psdcovers.com/" rel="noopener noreferrer">
+                    PSDCovers
+                  </a>
+                  ! Visit their website to download some of their awesome, free photoshop actions!</p>
             </div>
             <div className="col-lg-5 col-sm-pull-6  col-sm-6">
               <img className="img-responsive" src="img/dog.png" alt=""/>

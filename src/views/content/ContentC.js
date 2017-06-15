@@ -17,7 +17,10 @@ class ContentC extends Component {
               <hr className="section-heading-spacer"/>
                 <div className="clearfix"></div>
                 <h2 className="section-heading">Google Web Fonts and<br/>Font Awesome Icons</h2>
-                <p className="lead">This template features the 'Lato' font, part of the <a target="_blank" href="http://www.google.com/fonts">Google Web Font library</a>, as well as <a target="_blank" href="http://fontawesome.io">icons from Font Awesome</a>.</p>
+                <p className="lead">This template features the 'Lato' font, part of the
+                  <a target="_blank" href="http://www.google.com/fonts" rel="noopener noreferrer">Google Web Font library</a>
+                  , as well as
+                  <a target="_blank" href="http://fontawesome.io" rel="noopener noreferrer">icons from Font Awesome</a>.</p>
             </div>
             <div className="col-lg-5 col-lg-offset-2 col-sm-6">
               <img className="img-responsive" src="img/phones.png" alt=""/>
